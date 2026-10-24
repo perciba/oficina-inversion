@@ -1,0 +1,29 @@
+{
+  "acciones": [
+    {"s": "SPY", "n": "S&P 500 ETF"},
+    {"s": "QQQ", "n": "Nasdaq 100 ETF"},
+    {"s": "AAPL", "n": "Apple"},
+    {"s": "NVDA", "n": "Nvidia"}
+  ],
+  "forex": [
+    {"s": "EURUSD=X", "n": "EUR/USD"},
+    {"s": "GBPUSD=X", "n": "GBP/USD"},
+    {"s": "USDJPY=X", "n": "USD/JPY"},
+    {"s": "USDCOP=X", "n": "USD/COP"}
+  ],
+  "metales": [
+    {"s": "GC=F", "n": "Oro (futuro)"},
+    {"s": "SI=F", "n": "Plata (futuro)"},
+    {"s": "GLD", "n": "Oro ETF GLD"}
+  ],
+  "commodities": [
+    {"s": "CL=F", "n": "Petróleo WTI"}
+  ],
+  "cripto": [
+    {"s": "BTC-USD", "n": "Bitcoin"},
+    {"s": "ETH-USD", "n": "Ethereum"}
+  ],
+  "riesgo": [
+    {"s": "^VIX", "n": "VIX (miedo)"}
+  ]
+}
